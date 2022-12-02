@@ -1,4 +1,4 @@
-# <div align="center" > CMPN407 <br> Computer Modelling and Simulation <br> Lab 3 <br> ellahy yarab tes2at enta w farouk comm </div> 
+# <div align="center" > CMPN407 <br> Computer Modelling and Simulation <br> Lab 3 <br> </div> 
 
 ### <div align="center" > Circuit Simulation Engine </div>
 
